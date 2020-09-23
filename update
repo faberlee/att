@@ -10,7 +10,7 @@
         "ProxyPort": "80"
 },{
 "Name": "🇧🇷BR-02 PREMIUM",
-        "SSHHost": "brasilssh.ddns.net",!
+        "SSHHost": "brasilssh.ddns.net",
         "SSHPort": "22",
         "DropBear": "8080",
         "SSLPort": "443",
