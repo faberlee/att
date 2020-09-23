@@ -1,1 +1,60 @@
-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
+{
+    "Version": "1.1",
+    "Message": "⚡Internet Ilimitada⚡",
+    "Servers":[{
+"Name": "🇧🇷 BR-01 PREMIUM",
+        "SSHHost": "138.118.174.11",
+        "SSHPort": "22",
+        "DropBear": "8080",
+        "SSLPort": "443",
+        "ProxyPort": "80"
+},{
+"Name": "🇧🇷BR-02 PREMIUM",
+        "SSHHost": "brasilssh.ddns.net",!
+        "SSHPort": "22",
+        "DropBear": "8080",
+        "SSLPort": "443",
+        "ProxyPort": "80"
+},{
+"Name": "🇨🇦CA-1 SSHMAX",
+        "SSHHost": "ca01.sshmax.net",
+        "SSHPort": "22",
+        "DropBear": "80",
+        "SSLPort": "",
+        "ProxyPort": ""
+},{
+"Name": "🇺🇲US-1 SSHMAX",
+        "SSHHost": "us01.sshmax.net",
+        "SSHPort": "22",
+        "DropBear": "80",
+        "SSLPort": "",
+        "ProxyPort": ""
+}],
+"Tweaks": [{
+"Name": "VIVO SOCKS",
+"Direct": false,
+"SSL": false,
+"Payload": "HTTP/1.0 [lf]Host: [rotate=ar.tripadvisor.com;media.philstar.com;as.com;cadenaser.com;www.sky.com.br;argentina.as.com;foxnews.com;as.com;cadenaser.com;dm16.byteoversea.com;ehowenespanol.com;elcomidista.elpais.com;elpais.com;los40.com;media.philstar.com;us.as.com;www.as.com;www.claro.com.gt;www.claro.com.sv;www.ehowenespanol.com;www.elpais.com;www.theglobeandmail.com][crlf][crlf][",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "VIVO SSHMAX e JANTIT",
+"Direct": true,
+"SSL": false,
+"Payload": "HTTP/1.1 [crlf]Host: redbull.com.br[crlf] [crlf][crlf]⠀[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "TIM BRASIL",
+"Direct": false,
+"SSL": false,
+"Payload": "ACL HTTP/1.1 [crlf]Host: tidal.com.br[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+}]
+} 
